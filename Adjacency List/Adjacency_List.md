@@ -3,10 +3,10 @@
 1. Native solution nearly everyone use.  
 2. Each entry knows its immediate parent.  
 
-Hirerachical Data
+Hirerachical Data  
 ![](https://i.imgur.com/KpVeWoE.png)
 
-Comments Table
+Comments Table  
 ![](https://i.imgur.com/Cp9yJiT.png)
 
 ```cmd
