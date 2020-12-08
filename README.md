@@ -6,4 +6,8 @@ Mysql處理樹形結構的資料常見的方式有以下四種:
 - Closure Table: 維護一個表，所有的tree path作為記錄進行儲存。
 
 各方法優缺點比較表:  
-![](https://i.imgur.com/ae4cWtu.png)
+![](https://i.imgur.com/ae4cWtu.png)  
+
+
+參考資料:  
+https://www.slideshare.net/billkarwin/models-for-hierarchical-data
