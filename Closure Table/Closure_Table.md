@@ -89,7 +89,7 @@ WHERE descendant IN
 ### Path Length
 1. Add a length column.
 2. Max(length) is the depth of tree.
-3. Make it easier to query immediate parent or child.
+3. Make it easier to query immediate parent or child.  
 ![](https://i.imgur.com/hCVmaM8.png)
 ```cmd
 select c.* FROM comments c JOIN tree_paths t 
